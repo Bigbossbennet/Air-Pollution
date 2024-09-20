@@ -1,0 +1,97 @@
+body{
+    background-color:#d6eaf8;
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.bennet {
+    text-align: center;
+    background-color:#2E4053;
+    padding: 20px;
+    position: fixed;
+    width:100%;
+    margin: 0;
+    top:0;
+}
+.lord {
+    list-style-type: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.li{
+    display: inline;
+    margin: 0 10px;
+}
+.ap{
+    font-size: 20px;
+    margin: 10px;
+}
+.hea{
+  /* padding:0px 300px; 
+  object-fit: cover;*/
+  width: 100%;
+}
+.ans{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.law{
+     font-size: 20px;
+     margin: 10px;
+}
+.ha1{
+    /* padding:0px 300px; 
+    object-fit: cover;*/
+    margin: 20px 120px 20px 300px;
+    align-items: center;
+
+  }
+  .ha2{
+    /* padding:0px 300px; 
+    object-fit: cover;*/
+    margin: 20px 120px 20px 300px;
+    align-items: center;
+
+  }
+  .ha3{
+    /* padding:0px 300px; 
+    object-fit: cover;*/
+    margin: 20px 120px 20px 300px;
+    align-items: center;
+
+  }
+  .ha1{
+    /* padding:0px 300px; 
+    object-fit: cover;*/
+    margin: 20px 120px 20px 300px;
+    align-items: center;
+
+  }
+  .ha1{
+    /* padding:0px 300px; 
+    object-fit: cover;*/
+    margin: 20px 120px 20px 300px;
+    align-items: center;
+
+  }
+
+ .ai{
+    margin: 20px;
+  }
+  footer{
+    background-color: #2e4053;;
+    color: #fff;
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    bottom: 0;
+}
+button:hover{
+    background-color:#1c2833; ;
+}
+.margin{
+    margin:0 10%
+}

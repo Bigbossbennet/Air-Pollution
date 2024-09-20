@@ -1,0 +1,27 @@
+body{
+    background-color:#d6eaf8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header{
+      /*position: fixed;
+    width:100%*/
+    position: sticky;
+    top: 0;
+    text-align: center;
+    background-color: #2e4053;
+    padding: 20px;
+    margin: 0%;
+}
+.nav{
+    list-style-type: none;
+    padding: 0%;
+}
+.nav ul li a:hover{
+    color: #D6EAF8;
+    background-color: #2e4053;
+}
+.margin{
+    margin:0 10%
+}
